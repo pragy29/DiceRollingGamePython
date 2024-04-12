@@ -10,6 +10,7 @@ Ensure you have Python installed on your machine. Python 3.8 or higher is recomm
 
 ### Installation
 Clone the repository to your local machine:
+git clone https://github.com/DiceRollingGamePython.git
 
 ## Game Functions
 
