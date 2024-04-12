@@ -9,8 +9,11 @@ Dice Rolling Game is a Python-based interactive game that allows players to roll
 Ensure you have Python installed on your machine. Python 3.8 or higher is recommended.
 
 ### Installation
-Clone the repository to your local machine:
-git clone https://github.com/DiceRollingGamePython.git
+Just download the ipynb file.
+
+### Running the Game
+To start the game, you'll need to open the Jupyter Notebook.
+In the Jupyter interface, open the file to access the game. Run the the last cell to start the game.
 
 ## Game Functions
 
